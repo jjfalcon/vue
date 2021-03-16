@@ -18,5 +18,7 @@ How to use the ability to validate our users' input in his Form Validation lesso
 
 https://www.vuemastery.com/courses/beautify-with-vuetify/forms-validation/
 
+## Libraries, Components
 
+* [Prime Vue](https://madewithvuejs.com/primevue) UI component library
 
